@@ -1,0 +1,12 @@
+[
+  {
+    "id": "valorant-a",
+    "name": "TEMPR Valorant",
+    "game": "Valorant",
+    "logo": "/imgs/wht_tempr_button.png",
+    "roster": [
+      {"tag":"Player1","role":"IGL"},
+      {"tag":"Player2","role":"Duelist"}
+    ]
+  }
+]
