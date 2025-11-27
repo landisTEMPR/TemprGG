@@ -1,0 +1,11 @@
+.navbar-container
+{
+    background-color: black;
+}
+
+.navbar-logo-img
+{
+    height: 75px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
